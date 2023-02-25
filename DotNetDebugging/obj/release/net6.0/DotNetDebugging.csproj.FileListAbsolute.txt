@@ -1,0 +1,15 @@
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\bin\release\net6.0\DotNetDebugging.exe
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\bin\release\net6.0\DotNetDebugging.deps.json
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\bin\release\net6.0\DotNetDebugging.runtimeconfig.json
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\bin\release\net6.0\DotNetDebugging.dll
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\bin\release\net6.0\DotNetDebugging.pdb
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\DotNetDebugging.dll
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\refint\DotNetDebugging.dll
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\DotNetDebugging.pdb
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\familia Alvarez\OneDrive\Documentos\DotNetDebugging\obj\release\net6.0\ref\DotNetDebugging.dll
